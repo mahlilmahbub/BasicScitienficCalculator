@@ -1,0 +1,67 @@
+html{
+display:table;
+margin:auto;
+}
+body {
+background-color:white;
+text-align:center;
+displsy:table-cell;
+vertical align:middle;
+margin-top:50%;
+background: linear-gradient(to top, #68EACC 0%,#FFFF00 100%);
+}
+h3{
+color:white;
+font-size:25px;
+font-famity:serif;
+}
+.calculator {
+width: 350px;
+height: 320px;
+background-color: white;
+box-shadow: 0px 0px 0px 10px #666;
+text-align: center;
+}
+#display {
+width: 320px;
+height: 40px;
+text-align: right;
+background-color:;
+border: 3px solid black;
+font-size: 18px;
+left: 2px;
+top: 2px;
+color: black;
+}
+.btnTop{
+color: white;
+background-color: dodgerblue;
+font-size: 14px;
+margin: auto;
+width: 50px;
+height: 25px;
+}
+.btnNum {
+color: white;
+background-color: black;
+font-size: 14px;
+margin: auto;
+width: 50px;
+height: 25px;
+}
+.btnMath {
+color: white;
+background-color:teal;
+font-size: 14px;
+margin: auto;
+width: 50px;
+height: 25px;
+}
+.btnOpps {
+color: white;
+background-color: darkkhaki;
+font-size: 14px;
+margin: auto;
+width: 50px;
+height: 25px;
+}
